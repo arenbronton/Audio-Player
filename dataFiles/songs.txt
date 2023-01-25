@@ -1,2 +1,2 @@
 [FILE PATH], [NAME], [ARTIST], [ALBUM], [COVER]
-November Rain.wav-//-November Rain-//-Guns N' Roses-//-November Rain-//-C:\Users\Aren\Music\Album Covers\November Rain Cover.jfif
+November Rain.wav-//-November Rain-//-Guns N' Roses-//-November Rain-//-none

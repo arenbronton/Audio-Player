@@ -14,7 +14,9 @@ public class Song {
         this.album = album;
 
         try {
-            albumCover = ImageIO.read(new File(coverImageFilePath));
+            if (!coverImageFilePath.equals("none")) {
+                albumCover = ImageIO.read(new File(coverImageFilePath));
+            }
         } catch (Exception e) {
             e.printStackTrace();
         }

@@ -4,25 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c3125fde-5ba6-45a9-a1ed-4a0d93b1e9eb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Music Player Final Project.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dataFiles/songs.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/icons/app_icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/music/Never See Me Again.wav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/music/November Rain.wav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DataManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MyMusicPanel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MyPlaylistsPanel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SettingsPanel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Song.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sound.java" afterDir="false" />
+    <list default="true" id="c3125fde-5ba6-45a9-a1ed-4a0d93b1e9eb" name="Changes" comment="Initial Commit">
+      <change beforePath="$PROJECT_DIR$/dataFiles/songs.txt" beforeDir="false" afterPath="$PROJECT_DIR$/dataFiles/songs.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Song.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Song.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,6 +70,18 @@
       <option name="presentableId" value="Default" />
       <updated>1674602145394</updated>
     </task>
+    <task id="LOCAL-00001" summary="Initial Commit">
+      <created>1674606214265</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1674606214265</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial Commit" />
   </component>
 </project>
